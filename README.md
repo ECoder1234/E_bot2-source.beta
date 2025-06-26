@@ -1,3 +1,2 @@
-# Discord Chatbot using GPT-3
-
-Follow the tutorial here: https://youtu.be/hkMWVrhGorI
+# E_bot2 Source Code
+**_Do Not Edit_**
